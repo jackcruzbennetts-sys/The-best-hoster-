@@ -6,7 +6,7 @@
     "type": "offline"
   },
   "server": {
-    "ip": "SmpLova.aternos.me:44714",
+    "ip": "SmpLova.aternos.me",
     "port": 44714,
     "version": "",
     "try-creative": false
